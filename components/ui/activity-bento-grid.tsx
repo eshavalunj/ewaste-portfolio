@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 
 const activities = [
-  { id: 1, title: "E-Waste Pledge", image: "/activities/pledge.jpg", large: true },
+  { id: 1, title: "E-Waste Pledge", image: "/activities/pledge.jpeg", large: true },
   { id: 2, title: "Household Survey", image: "/activities/a2.jpg" },
   { id: 3, title: "Collection Drive", image: "/activities/a3.jpg" },
   { id: 4, title: "Recycling Study", image: "/activities/a4.jpg", tall: true },
